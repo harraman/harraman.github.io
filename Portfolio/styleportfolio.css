@@ -10,17 +10,7 @@ img {
 h1 {
     font-size: 3.00em;
     text-align: center;
-}
-h12 {
-    font-size: .65em;
-    text-align: center;
-	<style>
- body { background-color:blue; }
- highlightme:#ff9999;
-}
-h10 {
-    font-size: 3.45em;
-   
+
 }
 #container { overflow: hidden; }
 #floated-imgs { float: left; }
